@@ -8,6 +8,10 @@
 Changes
 =======
 
+Version 1.0.3 (released 2019-01-11)
+
+- Prevent from using oauthlib v3.0.0
+
 Version 1.0.2 (released 2018-11-02)
 
 - Fix incosistent OAuth2 state initialization between UI and REST applications.
